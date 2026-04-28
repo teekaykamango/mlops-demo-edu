@@ -5,7 +5,7 @@ on Cloudera Data Science Workbench.
 
 ## Files
 
-Modify the default files to get started with your own project.
+Modify the default files to get started with your own project
 
 * `README.md` -- This project's readme in Markdown format.
 * `analysis.py` -- An example Python analysis script.
